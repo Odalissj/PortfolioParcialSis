@@ -1,0 +1,4 @@
+[07-Mar-2025 05:20:08 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\portfolio\controllers\controller.template.php on line 8
+[07-Mar-2025 05:20:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\portfolio\controllers\controller.template.php on line 8
+[07-Mar-2025 05:20:49 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\portfolio\controllers/../views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\portfolio\controllers\controller.template.php on line 8
+[07-Mar-2025 05:20:49 Europe/Berlin] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\portfolio\controllers/../views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\portfolio\controllers\controller.template.php on line 8
